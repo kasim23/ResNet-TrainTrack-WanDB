@@ -1,0 +1,1 @@
+Training and tracking on Wandb and experimenting with finetuning resnet18
